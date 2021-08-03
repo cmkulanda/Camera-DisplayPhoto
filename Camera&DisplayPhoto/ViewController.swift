@@ -8,6 +8,7 @@
 import UIKit
 //comment here! :)
 //another comment 
+//another comment by Kelly
 class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
     var imagePicker = UIImagePickerController()
